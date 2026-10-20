@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ericlang
 - 👀 I’m interested in ...running,cooking and sustainable business
 - 🌱 I’m currently learning ... about life
-- 💞️ I’m looking to collaborate on ... everything you need
+- 💞️ I’m looking for collaborating on ... everything you consider
 - 📫 How to reach me ... here
 
 <!---
